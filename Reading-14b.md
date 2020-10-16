@@ -1,0 +1,5 @@
+# Reading-14b
+
+I am so glad that this article was apart of our course readings. One of my biggest fears about taking this leap into coding and entering a new industry was the team that I was leaving. I've had the pleasure of working alongside psychologists, psychiatrists,  social workers, doctors and various other providers that are passionate and conscientious about creating a work environment that is people-centered.  I endured working 24/7 with the support of the team. They each had extraordinary emotional intelligence, compassion, and created a safety net like no other places I've worked.
+
+I am pleasantly surprised to hear that this is a priority for companies within tech, even if its motivations are to increase overall productivity. While this is just one company, it is encouraging that if a company lacks that there are a variety of skills that can be valuable within the tech industry aside from technical skills.
